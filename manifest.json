@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "phrasal_verbs_1",
+      "title": "Phrasal verbs — básicos",
+      "kind": "phrasal",
+      "level": "A2",
+      "theme": "",
+      "version": 1,
+      "file": "phrasal_verbs_1.json",
+      "count": 31
+    },
+    {
+      "id": "false_friends_1",
+      "title": "Falsos amigos — los más peligrosos",
+      "kind": "false_friend",
+      "level": "A2",
+      "theme": "",
+      "version": 1,
+      "file": "false_friends_1.json",
+      "count": 25
+    }
+  ]
+}
