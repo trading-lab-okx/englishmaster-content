@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "packs": [
     {
       "id": "verbs_1",
@@ -10,6 +10,66 @@
       "version": 1,
       "file": "verbs_1.json",
       "count": 49
+    },
+    {
+      "id": "collocations_1",
+      "title": "Colocaciones — combinaciones fijas",
+      "kind": "collocation",
+      "level": "A2",
+      "theme": "",
+      "version": 1,
+      "file": "collocations_1.json",
+      "count": 24
+    },
+    {
+      "id": "prepositions_1",
+      "title": "Preposiciones — in / on / at y verbos con preposición",
+      "kind": "preposition",
+      "level": "A2",
+      "theme": "",
+      "version": 1,
+      "file": "prepositions_1.json",
+      "count": 20
+    },
+    {
+      "id": "contractions_1",
+      "title": "Contracciones habladas — gonna, wanna, gotta…",
+      "kind": "contraction",
+      "level": "A2",
+      "theme": "",
+      "version": 1,
+      "file": "contractions_1.json",
+      "count": 17
+    },
+    {
+      "id": "numbers_dates_1",
+      "title": "Números, horas, fechas y dinero",
+      "kind": "number",
+      "level": "A2",
+      "theme": "",
+      "version": 1,
+      "file": "numbers_dates_1.json",
+      "count": 20
+    },
+    {
+      "id": "idioms_1",
+      "title": "Idioms — expresiones comunes de EE. UU.",
+      "kind": "idiom",
+      "level": "B1",
+      "theme": "",
+      "version": 1,
+      "file": "idioms_1.json",
+      "count": 20
+    },
+    {
+      "id": "homophones_1",
+      "title": "Homófonos — their/there, your/you're, its/it's…",
+      "kind": "homophone",
+      "level": "A2",
+      "theme": "",
+      "version": 1,
+      "file": "homophones_1.json",
+      "count": 24
     },
     {
       "id": "phrasal_verbs_1",
