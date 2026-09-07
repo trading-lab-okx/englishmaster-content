@@ -1,6 +1,16 @@
 {
-  "version": 1,
+  "version": 2,
   "packs": [
+    {
+      "id": "verbs_1",
+      "title": "Verbos — los 49 esenciales",
+      "kind": "verb",
+      "level": "A1",
+      "theme": "",
+      "version": 1,
+      "file": "verbs_1.json",
+      "count": 49
+    },
     {
       "id": "phrasal_verbs_1",
       "title": "Phrasal verbs — básicos",
